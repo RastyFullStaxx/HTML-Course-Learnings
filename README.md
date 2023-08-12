@@ -45,12 +45,14 @@ To bread or add space between the lines, we use the line break function tag. Thi
 
 To add a horizontal line, we use this function that do not need a close tag as well.
 - **`<hr`**
+  
 ![image](https://github.com/RastyFullStaxx/HTML-Course-Learnings/assets/133841842/36b78feb-5fed-48eb-8796-8d166be56b68)
 ![image](https://github.com/RastyFullStaxx/HTML-Course-Learnings/assets/133841842/285d9c85-fba2-43e7-8831-7167541b4410)
 
 To create a paragraph, use the tags
 - `<p>`
 - `</p>`
+  
 ![image](https://github.com/RastyFullStaxx/HTML-Course-Learnings/assets/133841842/0f34d88e-99b0-48b0-9189-ba338cff2bfb)
 ![image](https://github.com/RastyFullStaxx/HTML-Course-Learnings/assets/133841842/70be266f-5f37-40de-adb6-c1751a665425)
 
