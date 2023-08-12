@@ -3,4 +3,5 @@
 This repository holds my files for my own records of programming course in HTML, containing practices named in an orderly fashion.
 
 
-![image](https://github.com/RastyFullStaxx/HTML-Course-Learnings/assets/133841842/dd27bb11-41c7-4093-b963-1434128b65b1)
+![DOST SEI Scholar](https://github.com/RastyFullStaxx/HTML-Course-Learnings/assets/133841842/3c51c758-f967-4ebb-ac06-835f7b09b65f)
+
